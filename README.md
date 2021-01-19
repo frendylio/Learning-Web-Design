@@ -1,5 +1,3 @@
-# Portfolio
-
 ## Notes
 Hero Image 
 - A hero image is a website design term used to describe an oversized banner image at the top of a website.
